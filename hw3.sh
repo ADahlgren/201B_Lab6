@@ -96,5 +96,5 @@ write.csv(etp$table, "yeast-edgeR.csv")
 
 
 #Commnents:
-The additional four samples yielded 3590 upregulated and 593 downregulated transcripts that were significantly DE
-Lab 8 gave us 548 upregulated and 3298 downregulated transcripts that were significantly DE
+#The additional four samples yielded 3590 upregulated and 593 downregulated transcripts that were significantly DE
+#Lab 8 gave us 548 upregulated and 3298 downregulated transcripts that were significantly DE
